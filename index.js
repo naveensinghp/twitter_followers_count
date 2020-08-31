@@ -9,8 +9,6 @@ const client = new Twitter({
   access_token_secret: process.env.twitter_access_token_secret, // from your User (oauth_token_secret)
 });
 
-// API Key = 1rrPZhEeaAcHG2Fc1vlNfBPn5
-// API Key secret = QUHzBLSdaIOmPKNEPPc2phICw7EgcHMSbUwGFshFgihRfY3bp9
 
 const name = "Naveen Singh"; // Change to your name;
 const emoji = "🧑🏻‍💻"; // Change as per your wish
